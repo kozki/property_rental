@@ -10,7 +10,7 @@ spec:
         app: propertylease
     spec:
       containers:
-      - image: ggrex/rsobnb-property_lease:0.2
+      - image: ggrex/rsobnb-property_lease:0.1
         imagePullPolicy: Always
         name: propertylease
         env:
